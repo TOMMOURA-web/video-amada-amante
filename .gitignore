@@ -1,0 +1,12 @@
+# Ignore generated asset files
+assets/reference/*.png
+assets/reference/*.jpg
+assets/reference/*.jpeg
+assets/audio/*.mp3
+assets/audio/*.wav
+assets/audio/*.m4a
+assets/renders/
+*.blend
+*.blend1
+__pycache__/
+.DS_Store
